@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "id": 2,
+    "quote": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "id": 3,
+    "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "id": 4,
+    "quote": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay"
+  },
+  {
+    "id": 5,
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon"
+  },
+  {
+    "id": 6,
+    "quote": "Get your facts first, then you can distort them as you please.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 7,
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West"
+  },
+  {
+    "id": 8,
+    "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+    "author": "Robert Frost"
+  },
+  {
+    "id": 9,
+    "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "id": 10,
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "id": 11,
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney"
+  },
+  {
+    "id": 12,
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller"
+  },
+  {
+    "id": 13,
+    "quote": "It does not do to dwell on dreams and forget to live.",
+    "author": "J.K. Rowling"
+  },
+  {
+    "id": 14,
+    "quote": "You have within you right now, everything you need to deal with whatever the world can throw at you.",
+    "author": "Brian Tracy"
+  },
+  {
+    "id": 15,
+    "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "id": 16,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama"
+  },
+  {
+    "id": 17,
+    "quote": "Happiness is not something ready-made. It comes from your own actions.",
+    "author": "Dalai Lama"
+  },
+  {
+    "id": 18,
+    "quote": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "id": 19,
+    "quote": "The only impossible journey is the one you never begin.",
+    "author": "Tony Robbins"
+  },
+  {
+    "id": 20,
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James"
+  },
+  {
+    "id": 21,
+    "quote": "Life is short, and it is up to you to make it sweet.",
+    "author": "Sarah Louise Delany"
+  },
+  {
+    "id": 22,
+    "quote": "You must be the change you wish to see in the world.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "id": 23,
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill"
+  },
+  {
+    "id": 24,
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 25,
+    "quote": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+    "author": "James Cameron"
+  },
+  {
+    "id": 26,
+    "quote": "It is never too late to be what you might have been.",
+    "author": "George Eliot"
+  },
+  {
+    "id": 27,
+    "quote": "The best revenge is massive success.",
+    "author": "Frank Sinatra"
+  },
+  {
+    "id": 28,
+    "quote": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky"
+  },
+  {
+    "id": 29,
+    "quote": "Whether you think you can or you think you can't, you're right.",
+    "author": "Henry Ford"
+  },
+  {
+    "id": 30,
+    "quote": "Be not afraid of life. Believe that life is worth living, and your belief will help create the fact.",
+    "author": "William James"
+  },
+  {
+    "id": 31,
+    "quote": "The best way out is always through.",
+    "author": "Robert Frost"
+  },
+  {
+    "id": 32,
+    "quote": "Your time is limited, don't waste it living someone else's life.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 33,
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller"
+  },
+  {
+    "id": 34,
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 35,
+    "quote": "The only journey is the one within.",
+    "author": "Rainer Maria Rilke"
+  },
+  {
+    "id": 36,
+    "quote": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
+    "author": "Unknown"
+  },
+  {
+    "id": 37,
+    "quote": "The only way to achieve the impossible is to believe it is possible.",
+    "author": "Charles Kingsleigh"
+  },
+  {
+    "id": 38,
+    "quote": "To be great is to be misunderstood.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "id": 39,
+    "quote": "We must accept finite disappointment, but never lose infinite hope.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "id": 40,
+    "quote": "The future belongs to those who prepare for it today.",
+    "author": "Malcolm X"
+  },
+  {
+    "id": 41,
+    "quote": "Life is really simple, but we insist on making it complicated.",
+    "author": "Confucius"
+  },
+  {
+    "id": 42,
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 43,
+    "quote": "Your time is limited, so don't waste it living someone else's life.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 44,
+    "quote": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson"
+  },
+  {
+    "id": 45,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker"
+  },
+  {
+    "id": 46,
+    "quote": "You must do the things you think you cannot do.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "id": 47,
+    "quote": "Nothing in life can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent.",
+    "author": "Calvin Coolidge"
+  },
+  {
+    "id": 48,
+    "quote": "The harder I work, the luckier I get.",
+    "author": "Samuel Goldwyn"
+  },
+  {
+    "id": 49,
+    "quote": "The only place where success comes before work is in the dictionary.",
+    "author": "Vidal Sassoon"
+  },
+  {
+    "id": 50,
+    "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "id": 51,
+    "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "id": 52,
+    "quote": "You don't have to be great to start, but you have to start to be great.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "id": 53,
+    "quote": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "id": 54,
+    "quote": "The road to success and the road to failure are almost exactly the same.",
+    "author": "Colin R. Davis"
+  },
+  {
+    "id": 55,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "id": 56,
+    "quote": "You do not find the happy life. You make it.",
+    "author": "Camilla E. Kimball"
+  },
+  {
+    "id": 57,
+    "quote": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "id": 58,
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West"
+  },
+  {
+    "id": 59,
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan"
+  },
+  {
+    "id": 60,
+    "quote": "The only way to achieve the impossible is to believe it is possible.",
+    "author": "Charles Kingsleigh"
+  },
+  {
+    "id": 61,
+    "quote": "Do what you can with all you have, wherever you are.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "id": 62,
+    "quote": "The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "id": 63,
+    "quote": "You have within you right now, everything you need to deal with whatever the world can throw at you.",
+    "author": "Brian Tracy"
+  },
+  {
+    "id": 64,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "id": 65,
+    "quote": "Your time is limited, so don't waste it living someone else's life.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 66,
+    "quote": "The best way to predict your future is to create it.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "id": 67,
+    "quote": "It's not whether you get knocked down, it's whether you get up.",
+    "author": "Vince Lombardi"
+  },
+  {
+    "id": 68,
+    "quote": "If you are not willing to risk the usual, you will have to settle for the ordinary.",
+    "author": "Jim Rohn"
+  },
+  {
+    "id": 69,
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "id": 70,
+    "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill"
+  },
+  {
+    "id": 71,
+    "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "id": 72,
+    "quote": "The only place where success comes before work is in the dictionary.",
+    "author": "Vidal Sassoon"
+  },
+  {
+    "id": 73,
+    "quote": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+    "author": "Walt Whitman"
+  },
+  {
+    "id": 74,
+    "quote": "We may encounter many defeats but we must not be defeated.",
+    "author": "Maya Angelou"
+  },
+  {
+    "id": 75,
+    "quote": "The harder I work, the luckier I get.",
+    "author": "Samuel Goldwyn"
+  },
+  {
+    "id": 76,
+    "quote": "You can't go back and change the beginning, but you can start where you are and change the ending.",
+    "author": "C.S. Lewis"
+  },
+  {
+    "id": 77,
+    "quote": "You must do the things you think you cannot do.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "id": 78,
+    "quote": "Don't let yesterday take up too much of today.",
+    "author": "Will Rogers"
+  },
+  {
+    "id": 79,
+    "quote": "The secret of success is to do the common thing uncommonly well.",
+    "author": "John D. Rockefeller Jr."
+  },
+  {
+    "id": 80,
+    "quote": "Do what you can with all you have, wherever you are.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "id": 81,
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "id": 82,
+    "quote": "There are no shortcuts to any place worth going.",
+    "author": "Beverly Sills"
+  },
+  {
+    "id": 83,
+    "quote": "You can either experience the pain of discipline or the pain of regret. The choice is yours.",
+    "author": "Unknown"
+  },
+  {
+    "id": 84,
+    "quote": "It’s not whether you get knocked down, it's whether you get up.",
+    "author": "Vince Lombardi"
+  },
+  {
+    "id": 85,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "id": 86,
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill"
+  },
+  {
+    "id": 87,
+    "quote": "Don't wait for opportunity. Create it.",
+    "author": "Unknown"
+  },
+  {
+    "id": 88,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "id": 89,
+    "quote": "Your life does not get better by chance, it gets better by change.",
+    "author": "Jim Rohn"
+  },
+  {
+    "id": 90,
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan"
+  },
+  {
+    "id": 91,
+    "quote": "Don't be afraid to give up the good to go for the great.",
+    "author": "John D. Rockefeller"
+  },
+  {
+    "id": 92,
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "id": 93,
+    "quote": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "id": 94,
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney"
+  },
+  {
+    "id": 95,
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill"
+  },
+  {
+    "id": 96,
+    "quote": "Opportunities don't happen. You create them.",
+    "author": "Chris Grosser"
+  },
+  {
+    "id": 97,
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "id": 98,
+    "quote": "I never dreamed about success, I worked for it.",
+    "author": "Estee Lauder"
+  },
+  {
+    "id": 99,
+    "quote": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+    "author": "Roy T. Bennett"
+  },
+  {
+    "id": 100,
+    "quote": "Do not be embarrassed by your failures, learn from them and start again.",
+    "author": "Richard Branson"
+  }
+]
